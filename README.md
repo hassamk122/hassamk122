@@ -1,8 +1,7 @@
 <h1>Hi 👋, I'm Muhammad Hassam</h1>
 I am currently a third year software engineering student at Foundation University, Pakistan. I am also a software engineer intern at 10Pearls.
 
-<br/>
-🌱 I’m currently learning Golang and Java.
+<br>
 
 📝 Portfolio [http://hassamkiani.live/](http://hassamkiani.live/)
 
