@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hassamkiani/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/>/a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/hassamkiani/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"><img src="[https://skillicons.dev/icons?i=java,spring,react,typescript,postgresql](https://skillicons.dev/icons?i=golang,java,spring,react,html,css,tailwind,postgresql,linux,git)" alt="golang,java,spring,react,html,css,tailwind,postgresql,linux,git,cur" /></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=golang,java,spring,react,html,css,tailwind,postgresql,linux,git"/></p>
