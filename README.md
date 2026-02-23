@@ -3,7 +3,7 @@ I am currently a third year software engineering student at Foundation Universit
 <br></br>
 Languages and Tools:
 <p align="left"><img src="https://skillicons.dev/icons?i=golang,java,spring,react,html,css,tailwind,postgresql,linux,git"/></p>
-<br></br>
+
 📝 Portfolio [http://hassamkiani.live/](http://hassamkiani.live/)
 
 📫 How to reach me <a>hassamkiani66@gmail.com</a>
