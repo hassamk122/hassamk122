@@ -6,8 +6,6 @@ Languages and Tools:
 
 📝 Portfolio [http://hassamkiani.live/](http://hassamkiani.live/)
 
-📫 How to reach me <a>hassamkiani66@gmail.com</a>
-
 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hassamkiani/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/></a>
