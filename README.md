@@ -11,7 +11,8 @@
 
 
 ### Quick links
-Portfolio: [http://hassamkiani.live/](http://hassamkiani.live/)<br></br>
-Linkedin: [https://www.linkedin.com/in/hassamkiani/](https://www.linkedin.com/in/hassamkiani/)
+
+Portfolio: <a href="http://hassamkiani.live/" target="_blank">hassamkiani.live</a><br>
+LinkedIn: <a href="https://www.linkedin.com/in/hassamkiani/" target="_blank">hassamkiani</a><br>
 
 
